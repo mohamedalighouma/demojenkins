@@ -109,13 +109,19 @@
         </tr>
     </tbody>
 </table>
+
+    
+    <form action ="creationClient.jsp" method ="post">
+
+<br>
+<br>
+
+<h1> Creation d'un client </h1>                 
+         <input type="submit" value="submit" id="submit5" name="creationClient">
+       
+
 </form>
 
-<form action ="creationClient.jsp" method ="post">
-
-<input type="submit" value="submit" id="submit5" name="submit5"> 
-
-</form>
 
 </body>
 </html>
