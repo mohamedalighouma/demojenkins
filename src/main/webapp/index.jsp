@@ -110,6 +110,8 @@
     </tbody>
 </table>
 
+
+    
     
     <form action ="creationClient.jsp" method ="post">
 
@@ -118,6 +120,12 @@
 
 <h1> Creation d'un client </h1>                 
          <input type="submit" value="submit" id="submit5" name="creationClient">
+       
+
+</form>
+      <form action ="creationClient.jsp" method ="post">
+    <h1> Creation d'un client </h1>                 
+        <input type="submit" value="submit" id="submit6" name="submit6">
        
 
 </form>
