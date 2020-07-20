@@ -111,7 +111,11 @@
 </table>
 </form>
 
+<form action ="creationClient.jsp" method ="post">
 
+<input type="submit" value="submit" id="submit5" name="submit5"> 
+
+</form>
 
 </body>
 </html>
